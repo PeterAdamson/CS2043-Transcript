@@ -1,0 +1,2 @@
+# CS2043-Transcript
+A java program that provides a way to add and remove grades on a transcript, which is created with a student number.  The transcript class is able to calculate a GPA based on the grades added/removed.  The transcript class can take grades as either a letter or a number, and will create an instance of the grade class based on that grade.  The grade class will automatically use the registrar class to calculate a nuber grade based on a letter grade or a letter grade based on a number grade.
